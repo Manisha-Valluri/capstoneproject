@@ -1,0 +1,189 @@
+.u{
+	height: 2000px;
+	width: 800px;
+	background-color: whitesmoke;
+}
+.a{
+	width: 800px;
+	height: 400px;
+	border: 1px;
+	font-style: italic;
+
+}
+.a1{
+	text-align: center;
+	background-color: yellow;
+	font-style: italic;
+	text-align:left;
+
+
+}
+.b{
+	width: 800px;
+	height: 300px;
+	background: lightgray;
+	border: 1px;
+	margin-bottom: 2px;
+
+}
+.s1{
+	width: 200px;
+	height: 180px;
+	background-color: white;
+	float: left;
+	margin-top: 110px;
+	margin-left: 10px;
+	
+
+}
+.s2{
+	width: 200px;
+	height: 180px;
+	background-color: white;
+	float: left;
+	margin-top: 110px;
+	margin-left: 10px;
+	
+
+}
+p{
+	text-align: justify;
+}
+button{
+	color: orange;
+}
+.k{
+	width: 300px;
+	height: 180px;
+	float: right;
+	margin-top: 50px;
+}
+
+.c{
+	width: 800px;
+	height: 300px;
+	background: whitesmoke;
+	border: 1px solid black;
+	margin-top: 90px;
+	padding-bottom: 100px;
+}
+.c1{
+	text-align: justify;
+}
+.v1{
+	height: 190px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 100px;
+	
+}
+.v2{
+	height: 190px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 100px;
+	
+}
+.v3{
+	height: 190px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 100px;
+	
+}
+.v4{
+	height: 190px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 100px;
+
+}
+
+.d{
+	width: 800px;
+	height: 200px;
+	background: pink;
+	border: 1px;
+	margin-bottom: 2px
+}
+.m2{
+	height: 300px;
+	width: 800px;
+}
+.e{
+	width: 800px;
+	height: 300px;
+	background: skyblue;
+	border: 1px;
+	margin-bottom: 2px;
+
+
+}
+.e1{
+	width: 250px;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+	margin: 5px 5px;
+	border: solid black;
+	margin-top: 80px;
+}
+.h{
+	width: 250px;
+	height: 200px;
+}
+.e2{
+	width: 250px;
+	height: 200px;
+	background-color: blue;
+	float: right;
+	margin: 5px 5px;
+	border: solid black;
+	margin-top: 80px;
+	
+}
+.h2{
+	width: 250px;
+	height: 200px;
+}
+.e3{
+	width: 250px;
+	height: 200px;
+	background-color: red;
+	float: left;
+	margin: 5px 5px;
+	border: solid black;
+	margin-top: 80px;
+}
+.h3{
+	width: 250px;
+	height: 200px;
+}
+.f{
+	width: 800px;
+	height: 300px;
+	background: lightgray;
+	border: 1px;
+	margin-bottom: 2px;
+}
+
+img{
+	width: 800px;
+	height: 300px;
+}
+
+.g{
+	width: 800px	
+	height: 250px;
+	background: skyblue;
+	border: 1px;
+	margin-bottom: 2px;
+}
+.s1{
+	text-align: left;
+}
+
